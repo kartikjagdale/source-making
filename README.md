@@ -19,13 +19,16 @@ Here I aim to take a specific design problem and create my own solution based on
 2. System design problems with solutions
 ---
 
-## Base guideline to approach the system design problems:
+### Base guideline to approach the system design problems:
 
-## System design problems with solutions:
+### System design problems with solutions:
+| Problem              |               |
+|----------------------|---------------|
+| Sample Problem title | Solution_Link |
+| Sample Problem title | Solution_Link |
+| Sample Problem title | Solution_Link |
 
-
-
-
+---
 ### Reference and Inspiration Links:
 1. [System Design Premier](https://github.com/donnemartin/system-design-primer)
 2. [System Design](https://github.com/codersguild/System-Design)
