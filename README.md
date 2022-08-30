@@ -36,4 +36,5 @@ Here I aim to take a specific design problem and create my own solution based on
 4. [System Design Preparation](https://github.com/shashank88/system_design)
 5. [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 6. [Design Patterns and Refactoring](https://sourcemaking.com/)
+7. [Patterns.dev](https://www.patterns.dev/)
 
